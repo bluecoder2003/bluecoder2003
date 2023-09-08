@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bluecoder2003/My-portfolio](https://github.com/bluecoder2003)
+- 👨‍💻 All of my projects are available at ** https://github.com/bluecoder2003?tab=repositories **
 
 - 💬 Ask me about **HTML, CSS, Java Script, UI UX development**
 
