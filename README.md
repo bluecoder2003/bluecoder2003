@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **neelakshidas2003@gmail.com**
 
-- ⚡ Fun fact **I think I am passionate to my work and always try to evolve my skills over my domain of interest**
+- ⚡ Fun fact **I think I am passionate about my work and always try to evolve my skills over my domain of interest**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
