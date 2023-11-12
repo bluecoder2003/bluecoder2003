@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at ** https://github.com/bluecoder2003?tab=repositories **
 
-- 💬 Ask me about **HTML, CSS, Java Script, UI UX development**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, Java Script, UI UX development**
 
 - 📫 How to reach me **neelakshidas2003@gmail.com**
 
