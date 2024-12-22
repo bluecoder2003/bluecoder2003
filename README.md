@@ -26,7 +26,6 @@ const neelakshi = {
     - 🎢 Currently on the roller coaster ride from Frontend to Full Stack
     - 🐛 Professional bug creator (and sometimes solver)
     - 🎨 Making websites pretty when CSS decides to cooperate
-    - ⚡ Fun fact: My code works in development but breaks in production
     - 🎮 When not coding: Probably thinking about coding
   </div>
   <div align="center">
