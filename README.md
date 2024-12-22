@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/github/followers/bluecoder2003?label=Fellow+Code+Warriors&style=social" alt="followers" />
 </div>
 
-<img align="center" alt="Me debugging my life" width="200" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/giphy.gif">
 
 ### 🎭 Who Am I?
 
@@ -27,6 +26,8 @@ const neelakshi = {
 - 🎨 Making websites pretty when CSS decides to cooperate
 - ⚡ Fun fact: My code works in development but breaks in production
 - 🎮 When not coding: Probably thinking about coding
+
+<img align="center" alt="Me debugging my life" width="200" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/giphy.gif">
 
 ### 🛠️ Weapons of Choice
 
