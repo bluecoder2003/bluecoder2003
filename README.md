@@ -21,13 +21,18 @@ const neelakshi = {
 };
 ```
 
-- 🎢 Currently on the roller coaster ride from Frontend to Full Stack
-- 🐛 Professional bug creator (and sometimes solver)
-- 🎨 Making websites pretty when CSS decides to cooperate
-- ⚡ Fun fact: My code works in development but breaks in production
-- 🎮 When not coding: Probably thinking about coding
-
-<img align="center" alt="Me debugging my life" width="200" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/giphy.gif">
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <div>
+    - 🎢 Currently on the roller coaster ride from Frontend to Full Stack
+    - 🐛 Professional bug creator (and sometimes solver)
+    - 🎨 Making websites pretty when CSS decides to cooperate
+    - ⚡ Fun fact: My code works in development but breaks in production
+    - 🎮 When not coding: Probably thinking about coding
+  </div>
+  <div align="center">
+    <img alt="Me debugging my life" width="200" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/giphy.gif">
+  </div>
+</div>
 
 ### 🛠️ Weapons of Choice
 
