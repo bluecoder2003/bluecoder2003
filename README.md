@@ -8,28 +8,29 @@
 </div>
 
 <div align="center">
-<img align="right" alt="Me debugging my life" width="200" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+  <img align="right" alt="Me debugging my life" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/giphy.gif"/>
+
+  ### 🎭 Who Am I?
+
+  ```javascript
+  const neelakshi = {
+      currentStatus: "Battling my way from Frontend to Full Stack 🗡️",
+      location: "India 🇮🇳 (where chai solves everything)",
+      skills: ["Making divs dance", "Turning coffee into code"],
+      debuggingStrategy: "console.log('PLEASE WORK!!!!!')",
+      dailyRoutine: ["code", "debug", "cry", "repeat"],
+      achievement: "Can center a div without StackOverflow (sometimes)"
+  };
+  ```
+</div>
+
 <div align="left">
-### 🎭 Who Am I?
-
-```javascript
-const neelakshi = {
-    currentStatus: "Battling my way from Frontend to Full Stack 🗡️",
-    location: "India 🇮🇳 (where chai solves everything)",
-    skills: ["Making divs dance", "Turning coffee into code"],
-    debuggingStrategy: "console.log('PLEASE WORK!!!!!')",
-    dailyRoutine: ["code", "debug", "cry", "repeat"],
-    achievement: "Can center a div without StackOverflow (sometimes)"
-};
-```
-</div>
-</div>
-
 - 🎢 Currently on the roller coaster ride from Frontend to Full Stack
 - 🐛 Professional bug creator (and sometimes solver)
 - 🎨 Making websites pretty when CSS decides to cooperate
 - ⚡ Fun fact: My code works in development but breaks in production
 - 🎮 When not coding: Probably thinking about coding
+</div>
 
 ### 🛠️ Weapons of Choice
 
