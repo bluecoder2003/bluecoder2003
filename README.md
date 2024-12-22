@@ -7,30 +7,26 @@
   <img src="https://img.shields.io/github/followers/bluecoder2003?label=Fellow+Code+Warriors&style=social" alt="followers" />
 </div>
 
-<div align="center">
-  <img align="right" alt="Me debugging my life" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/giphy.gif"/>
+<img align="right" alt="Me debugging my life" width="400" src="[https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif](https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/giphy.gif)">
 
-  ### 🎭 Who Am I?
+### 🎭 Who Am I?
 
-  ```javascript
-  const neelakshi = {
-      currentStatus: "Battling my way from Frontend to Full Stack 🗡️",
-      location: "India 🇮🇳 (where chai solves everything)",
-      skills: ["Making divs dance", "Turning coffee into code"],
-      debuggingStrategy: "console.log('PLEASE WORK!!!!!')",
-      dailyRoutine: ["code", "debug", "cry", "repeat"],
-      achievement: "Can center a div without StackOverflow (sometimes)"
-  };
-  ```
-</div>
+```javascript
+const neelakshi = {
+    currentStatus: "Battling my way from Frontend to Full Stack 🗡️",
+    location: "India 🇮🇳 (where chai solves everything)",
+    skills: ["Making divs dance", "Turning coffee into code"],
+    debuggingStrategy: "console.log('PLEASE WORK!!!!!')",
+    dailyRoutine: ["code", "debug", "cry", "repeat"],
+    achievement: "Can center a div without StackOverflow (sometimes)"
+};
+```
 
-<div align="left">
 - 🎢 Currently on the roller coaster ride from Frontend to Full Stack
 - 🐛 Professional bug creator (and sometimes solver)
 - 🎨 Making websites pretty when CSS decides to cooperate
 - ⚡ Fun fact: My code works in development but breaks in production
 - 🎮 When not coding: Probably thinking about coding
-</div>
 
 ### 🛠️ Weapons of Choice
 
