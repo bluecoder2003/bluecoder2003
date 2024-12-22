@@ -22,7 +22,7 @@ const neelakshi = {
 ```
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <div>
+  <div align="left">
     - 🎢 Currently on the roller coaster ride from Frontend to Full Stack
     - 🐛 Professional bug creator (and sometimes solver)
     - 🎨 Making websites pretty when CSS decides to cooperate
