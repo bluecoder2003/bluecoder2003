@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/bluecoder2003?label=Fellow+Code+Warriors&style=social" alt="followers" />
 </div>
 
-<img align="right" alt="Me debugging my life" width="400" src="[https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif](https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/giphy.gif)">
+<img align="right" alt="Me debugging my life" width="200" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/giphy.gif">
 
 ### 🎭 Who Am I?
 
