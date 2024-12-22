@@ -7,8 +7,9 @@
   <img src="https://img.shields.io/github/followers/bluecoder2003?label=Fellow+Code+Warriors&style=social" alt="followers" />
 </div>
 
+<div align="center">
 <img align="right" alt="Me debugging my life" width="200" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
-
+<div align="left">
 ### 🎭 Who Am I?
 
 ```javascript
@@ -21,6 +22,8 @@ const neelakshi = {
     achievement: "Can center a div without StackOverflow (sometimes)"
 };
 ```
+</div>
+</div>
 
 - 🎢 Currently on the roller coaster ride from Frontend to Full Stack
 - 🐛 Professional bug creator (and sometimes solver)
