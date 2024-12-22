@@ -50,15 +50,13 @@ const neelakshi = {
 
 </div>
 
-### 📊 Battle Statistics
-
+📊 Battle Statistics
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluecoder2003&theme=tokyonight" alt="How long I've survived coding" />
 </div>
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bluecoder2003&show_icons=true&theme=tokyonight" alt="Times I've broken production" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluecoder2003&layout=compact&theme=tokyonight" alt="Languages I pretend to know" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bluecoder2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Times I've broken production" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluecoder2003&theme=tokyonight&layout=compact&langs_count=8&exclude_repo=game" alt="Languages I pretend to know" />
 </div>
 
 ### 🤝 Find Me In The Digital Universe
